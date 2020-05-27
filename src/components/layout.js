@@ -145,7 +145,7 @@ export default ({ children, location }) => (
                   margin: '0 4px -3px 2px',
                 }}
               />
-              <strong>Gatsby</strong>
+              <strong>Gatsby Joan</strong>
             </a>
             &nbsp;and&nbsp;
             <a
